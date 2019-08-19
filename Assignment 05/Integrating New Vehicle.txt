@@ -1,0 +1,11 @@
+I cannot attach Spaceship.class and SwiftDzire.class as I couldn't compile them.
+According to me, the error that I am geting is due to the fact that both of 
+those Vehicle classes failed to have a super() in their constructor and instead
+called a self defined method to call the parent constructor/ method to add 
+common vehicle attributes. 
+
+Therefore, in my code, I have commented out the part that adds those two Vehicle
+classes. 
+Lines 69 - 81 in Order.java
+and
+Lines 122 - 131 in Order.java

@@ -1,0 +1,26 @@
+Following is the test data for OrderNumbers.java :
+
+1.
+First number: 3
+Second number: 1
+Third number: 2
+(In ascending order : 1, 2, 3)
+
+2.
+First number: 56
+Second number: 41
+Third number: 79
+(In ascending order : 41, 56, 79)
+
+3.
+First number: 54
+Second number: 17
+Third number: 17
+(In ascending order : 17, 17, 54)
+
+4.
+First number: 78
+Second number: 34
+Third number: 78
+(In ascending order : 34, 78, 78)
+
